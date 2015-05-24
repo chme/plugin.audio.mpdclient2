@@ -1,0 +1,99 @@
+# XBMC Media Center language file
+# Addon Name: mpdclient2
+# Addon id: plugin.audio.mpdclient2
+# Addon Version: 0.0.1
+# Addon Version: chme
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.audio.mpdclient2\n"
+"Report-Msgid-Bugs-To: https://github.com/chme/plugin.audio.mpdclient2/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: chme\n"
+"Language-Team: chme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgctxt "#30001"
+msgid "Files"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Playlists"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Artists"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Albums"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Genre"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Queue"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Play"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Pause"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Stop"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Add"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Remove"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Clear"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Toggle outputs"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Previous"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Next"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Songs added"
+msgstr ""
+
+msgctxt "#30099"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "#30101"
+msgid "General"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Host"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Port"
+msgstr ""
+
+

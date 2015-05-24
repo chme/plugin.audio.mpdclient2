@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon
+	id="plugin.audio.mpdclient2"
+	name="MPD client 2"
+	version="0.0.1"
+	provider-name="chme">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="ui_addon.py">
+		<provides>audio</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<source>https://github.com/chme/plugin.audio.mpdclient2</source>
+		<platform>all</platform>
+		<language>de</language>
+		<summary>MPD client 2</summary>
+		<summary lang="de">MPD client 2</summary>
+		<description>MPD client 2</description>
+		<description lang="de">MPD client 2</description>
+	</extension>
+</addon>

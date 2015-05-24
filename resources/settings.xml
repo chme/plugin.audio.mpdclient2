@@ -1,0 +1,6 @@
+<settings>
+  <category label="30101">
+    <setting id="host" type="text"   label="30102" default="localhost"/>
+    <setting id="port" type="number" label="30103" default="6600"/>
+  </category>
+</settings>
